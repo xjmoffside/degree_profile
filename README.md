@@ -1,4 +1,4 @@
-# degree_profile
+# Degree Profile Graph Matching
 
 Degree profile algorithm for graph matching 
 
